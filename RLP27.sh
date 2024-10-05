@@ -24,10 +24,10 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Dev > RLP27${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Dev > TEGAR-STORE${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}RLP27® ${NC}${YELLOW}(${NC} ${green} ðŸ‡®ðŸ‡©rlp27ðŸ‡®ðŸ‡©  ${NC}${YELLOW})${NC}"
-echo -e " Â© Recode By Laksmana27 ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
+echo -e "  Auther : ${green}TEGAR-STORE® ${NC}${YELLOW}(${NC} ${green} ðŸ‡®ðŸ‡©rlp27ðŸ‡®ðŸ‡©  ${NC}${YELLOW})${NC}"
+echo -e " Â© Recode By TEGAR-STORE ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
